@@ -68,7 +68,7 @@ $translations = array(
   'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.' =>
     'Dengan berpartisipasi pada kontes ini, kamu setuju untuk tidak menuntut Facebook, staf-staf Facebook, dan penyelenggara permainan dari segala tuntutan yang mengakibatkan luka, kerusakan, atau kehilangan baik terjadi pada perseorangan ataupun properti. Kamu mengerti dan setuju bahwa Facebook et al tidak bertanggung jawab atas kesalahan teknis, perangkat keras, perangkat lunak, ataupun kesalahan lainnya yang mungkin terjadi dan berhubungan dengan kontes.',
   'If you have any questions about what is or is not allowed, please ask an organizer.' =>
-    'Jika kamu memiliki pertanyaan tentang peraturan lainnya, silahkan bertanya pada penyelenggara kontes.',
+    'Jika kamu memiliki pertanyaan tentang peraturan lainnya, silakan bertanya pada penyelenggara kontes.',
   'Have fun!' =>
     'Selamat bermain!',
   'Name' =>
@@ -100,7 +100,7 @@ $translations = array(
   'Team Login' =>
     'Login Tim',
   'Please login here. If you have not registered, you may do so by clicking "Sign Up" below. ' =>
-    'Silahkan login disini. Jika kamu belum terdaftar, kamu dapat menekan tombol "Daftar Baru" di bawah. ',
+    'Silakan login disini. Jika kamu belum terdaftar, kamu dapat menekan tombol "Daftar Baru" di bawah. ',
   'Team Login will be open soon, stay tuned!' =>
     'Login Tim akan tersedia sebentar lagi, tunggu sebentar!',
   'ERROR' =>
@@ -151,7 +151,7 @@ $translations = array(
   'Filter' =>
     'Filter',
   'Activity' =>
-    'Aktifitas',
+    'Aktivitas',
   'Game Clock' =>
     'Waktu Permainan',
   //Translations for AdminController
@@ -641,7 +641,7 @@ $translations = array(
   'Command_Line' =>
     'Command_Line',
   'Click "Nav" to access main navigation links like Rules of Play, Registration, Blog, Jobs & more.' =>
-    'Klik "Nav" untuk mengakses tautan navigasi utama seperti Peraturan Bermain, Pendaftaran, Blog, Karir, dan lainnya.',
+    'Klik "Nav" untuk mengakses tautan navigasi utama seperti Peraturan Bermain, Pendaftaran, Blog, Karier, dan lainnya.',
   'Track your competition by clicking "scorboard" to access real-time game statistics and graphs.' =>
     'Lacak kompetisi milikmu dengan menggunakan "Papan Nilai" untuk melihat statistik permainan secara real time.',
   'Have fun, be the best and conquer the world.' =>
